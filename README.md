@@ -9,7 +9,9 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 (i) To find the L and U matrix using LU decomposition:
+
 Algorithm Steps:
+
 1.Import the necessary libraries (scipy.linalg and numpy).
 
 2.Accept a matrix as input from the user.
@@ -23,7 +25,9 @@ Algorithm Steps:
 6.Print the upper triangular matrix U.
 
 (ii) To find the LU Decomposition of a matrix:
+
 Algorithm Steps:
+
 1.Import the necessary libraries (scipy.linalg and numpy).
 
 2.Accept a matrix as input from the user.
